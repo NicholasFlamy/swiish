@@ -1,3 +1,5 @@
+<!-- markdownlint-disable-file -->
+
 # Trade Name Exception Notice
 
 This notice is affixed to this copy of the GPL. The trade names **"Swiish"**, and related marks are trademarks of Michael Crinnion under trademark law but that does not grant permission for use in connection with any product or service without written authorization from Michael Crinnion, which must be obtained on a case-by-case basis before such use can occur (which may include payment). See [TRADEMARKS.md](./TRADEMARKS.md).
